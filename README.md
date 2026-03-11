@@ -14,4 +14,3 @@ A custom-designed PCB centered on the **ESP32-WROOM-32** module, tailored for in
 ## Software/Tools
 - **PCB Design**: Altium Designer (Schematic & Layout)
 - **Simulation**: PSpice
-- **Firmware**: Python (MicroPython) / C++
