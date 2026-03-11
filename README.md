@@ -9,7 +9,6 @@ A custom-designed PCB centered on the **ESP32-WROOM-32** module, tailored for in
 - **Sensing**: Dual-channel current sensing via **LM358** op-amps and **TA12/TA17** sensors.
 - **Communication Protocols**: 
     - **RS-485** interface (MAX485) for robust long-distance data exchange.
-    - UART/MQTT for IoT cloud connectivity (Adafruit IO).
 - **Peripheral Interface**: 4-bit DIP switch, 2-color status LEDs (MMBT3904 driven), and RJ45 connectors.
 
 ## Software/Tools
